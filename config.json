@@ -34,34 +34,34 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorname": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
+  "authorname": "𝐑𝐀𝐉𝐎𝐍 𝐱𝟔𝟗",
   "authorFB": "https://www.facebook.com/4S1F.403",
   "vipUser": [
-    "100022864793930",
-    ""
+    "100067008996139",
+    "100067008996139"
   ],
   "adminBot": [
-    "100068659609609",
-    "100095251515413",
-    "100045188618507",
-    "100000768468627",
-    "100086971370548",
-    "100084942163710"
+    "100022864793930",
+    "100022864793930",
+    "",
+    "",
+    "",
+    ""
   ],
   "GOD": [
     "100022864793930",
-    "100086971370548"
+    ""
   ],
   "DEV": [
-    "100083900196039",
-    "100086971370548"
+    "100022864793930",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "۞𝐀𝐒𝐈𝐅 𝐱𝟔𝟗۞",
+  "nickNameBot": "۞𝐑𝐀𝐉𝐎𝐍 𝐱𝟔𝟗۞",
   "prefix": ".",
   "database": {
     "type": "mongodb",
